@@ -1,0 +1,12 @@
+[
+  {
+    "type": "WITHDRAW",
+    "amount": 500.0,
+    "dateTime": "2025-11-15 14:47:47"
+  },
+  {
+    "type": "DEPOSIT",
+    "amount": 400.0,
+    "dateTime": "2025-11-15 14:48:20"
+  }
+]
